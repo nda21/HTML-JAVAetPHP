@@ -1,0 +1,4 @@
+cours de conception quelque notion :
+pour modifier un champ dans une table 
+ALTER TABLE `client` CHANGE `tel` `tel` INT(50) pas obligatoire NULL DEFAULT NULL;
+CREATE TABLE CLIENTID INT (5),NOM VARCHAR (50),PRENOM VARCHAR (50),TEL INT (5),ADRESSE VARCHAR (50),CP INT (10),ville VARCHAR (50),idcat VARCHAR (50),PRIMARY KEY (id)CONSTRAINT FOREIGN KEY (idcat) REFERENCES categoriee (id));
