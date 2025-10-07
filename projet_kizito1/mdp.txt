@@ -1,0 +1,37 @@
+naruto → mot de passe clair : naruto123
+MD5 : 884ecc7ac05cb5d52aa970f523a3b7e6
+
+sakura → sakura123
+MD5 : d1df49745f75a81137379b4bfe468258
+
+sasuke → sasuke123
+MD5 : 039f6568caf68b87a7ff9e091c3cca2c
+
+kakashi → kakashi123
+MD5 : 3cb19a3b0a0dc95986ea8460ec006662
+
+jiraiya → jiraiya123
+MD5 : 46b32578460a3f4c1efa3bd290241ff4
+
+tsunade → tsunade123
+MD5 : 955a6aa1e199d8566f66024710464fab
+
+rocklee → rocklee123
+MD5 : def1599f05478d90ede7c01638d61ac8
+
+shikamaru → shikamaru123
+MD5 : e6a3d4412114da8df1b857dff4a16b6d
+
+ino → ino123
+MD5 : 3abf66fa01c448af0700847842bb389c
+
+choji → choji123
+MD5 : 4d2c4125e7415958288bae29f5cef431
+
+Shisui -> Itachi
+
+Boruto -> Naruto
+
+Asuma ->Konoha
+
+Ichigo -> Bankai
