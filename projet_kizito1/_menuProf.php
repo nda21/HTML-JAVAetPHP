@@ -7,6 +7,8 @@
                          <button class="btn-menu" onclick="window.location.href='accueil.php'">Accueil</button>
                          <button class="btn-menu" onclick="window.location.href='perso.php'">Profil</button>
                          <button class="btn-menu" onclick="window.location.href='cr.php'">Compte rendus</button>
+                     <button class="btn-menu" onclick="window.location.href='aff_eleve.php'">Les Eleves</button>
+                     
                     
             </div>
         </nav>
